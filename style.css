@@ -176,8 +176,7 @@ footer{
 
 .icons-container{
     display: flex;
-    justify-content: center;
-    padding: 20px;
+    padding: 20px 0;
 }
 .icons{
     height: 50px;
